@@ -1,24 +1,13 @@
-# markdown-previewer
+# Markdown Previewer
 
-## Project setup
-```
-npm install
-```
+## Desenvolvido com
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+* [Vue.js](https://vuejs.org/)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Referência
 
-### Lints and fixes files
-```
-npm run lint
-```
+* [Build a Markdown Previewer with Vue.js - freeCodeCamp.org](https://www.youtube.com/watch?v=GkvMEYvXMyk)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Screenshot
+
+![alt text](screenshot.png)
